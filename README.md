@@ -1,5 +1,5 @@
 # CShell
-Implementing a simple shell in C
+Implementing a simple shell in C designed to run on a linux based system
 
 
 Commands:
