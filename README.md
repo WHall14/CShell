@@ -21,7 +21,7 @@ new command.
 containing only ‘+’ and ‘–‘ signs. You can also assume a space character separates any two 
 numbers/signs. e.g. “+ + 2 3 - 4 5”. 
 • Note that if you want to use the prefixadd() function from week 2 workshop you will need 
-to store the expression as a ragged array of strings (see week 2 exercise 3). 
+to store the expression as a ragged array of strings. 
 • time – you can use the functions defined in <time.h> (link). Hint: look at time(), 
 localtime() and asctime() functions. 
 • path - you can use the linux system function getcwd() (link). 
